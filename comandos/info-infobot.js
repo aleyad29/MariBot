@@ -23,7 +23,7 @@ let info = `
 ╠═〘 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〙 ═
 ╠
 ╠➢ [🤴🏻] *CREADOR: Ale*
-╠➢ [#️⃣] *NUMERO: +54 9 387 822 4071*
+╠➢ [#️⃣] *NUMERO: +51 935 763 050*
 ╠➢ [🎳] *PREFIJO: ${usedPrefix}*
 ╠➢ [🔐] *CHATS PRIVADOS: ${chats.length - groups.length}*
 ╠➢ [🦜] *CHAT DE GRUPOS: ${groups.length}* 
@@ -40,7 +40,7 @@ let info = `
 ╠➢ [👨‍🦯] *VELOCIDAD*: 
 ╠  *${speed} ms* 
 ╠
-╠═〘 𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃 〙 ═
+╠═〘 𝐌𝐚𝐫𝐢𝐚𝐧𝐚 𝐁𝐨𝐭 〙 ═
 `.trim() 
 conn.sendButton(m.chat, info, wm, pp, [
 ['📦 𝐆𝐑𝐔𝐏𝐎𝐒', '#grupos'],
